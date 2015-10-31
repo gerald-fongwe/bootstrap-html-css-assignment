@@ -1,0 +1,13 @@
+.navbar-header{float:right; background-color:cadetblue;
+	color:blue;
+	margin: 10px;
+	border-radius: 5px;
+}
+.navbar-brand{font-size: large;
+	background-color:cadetblue;
+	color:blue;
+}
+.container{font-size: small; align-content: flex-end}
+.footer{ background-color:cadetblue;
+magin: 10px; border-radius: 5px;
+}
