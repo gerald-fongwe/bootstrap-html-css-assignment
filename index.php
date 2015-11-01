@@ -69,7 +69,7 @@
 						<div class="col-md-3">
 							<h2> Anthropology is the study of culture as a complex system that requires study of many
 								diverse component parts. Studying other cultures requires that one live with the subjects of
-								!</h2>
+								</h2>
 						</div>
 						<div class="row">
 							<div class="col-md-3">
