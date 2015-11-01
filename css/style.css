@@ -1,9 +1,13 @@
+body{width: 100%;
+	margin: auto;
+}
+
 .navbar-header{float:right; background-color:cadetblue;
 	color:blue;
 	margin: 10px;
 	border-radius: 5px;
 }
-.navbar-brand{font-size: large;
+.logo{font-size: large;
 	background-color:cadetblue;
 	color:blue;
 }

@@ -44,7 +44,7 @@
 
 	<body>
 		<nav class="navbar navbar-default" role="navigation">
-			<a class="navbar-brand" href="#">GET SMART WEB</a>
+			<a class="logo" href="#">GET SMART WEB</a>
 
 			<div class="navbar-header">
 
