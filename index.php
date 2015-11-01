@@ -88,7 +88,7 @@
 									<div class="row">
 										<div class="col-md-6">
 											<h2> The ABO blood groups in humans are controlled by three alleles of a single gene.
-												O is recessive while A and B are codominant (an individual with both the A and B
+												O is recessive, while A and B are codominant (an individual with both the A and B
 												alleles will have the blood type.</h2>
 										</div>
 										<div class="row">
