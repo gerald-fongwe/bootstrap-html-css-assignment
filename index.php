@@ -73,14 +73,13 @@
 						</div>
 						<div class="row">
 							<div class="col-md-3">
-								<h2>their study.Holism describes a specific type of fieldwork that involves immersion in a
-									culture,
-									and taking on aspects of the community being studied to better understand it. </h2>
+								<h2>their study. Holism describes a specific type of fieldwork that involves immersion in a
+									culture, and taking on aspects of the community being studied to better understand it. </h2>
 							</div>
 							<div class="row">
 								<div class="col-md-3">
 									<h2>A fossil is any trace or impression of an organism that has been preserved in the earth's
-										crust from past geologic time.Dead animal materials are most likely to NOT become
+										crust from past geologic time. Dead animal materials are most likely to NOT become
 										fossilized.</h2>
 								</div>
 								<div class="row">
