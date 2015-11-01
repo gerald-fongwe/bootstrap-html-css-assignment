@@ -63,7 +63,7 @@
 							following a natural disaster. They would like to know how communities will respond to
 							the distribution of food, and what effect the disaster relief may have on the community.
 							The sociocultural anthropologist would be best suited to studying the community and the effects
-							of food distribution on the community?!</h2>
+							of food distribution on the community!</h2>
 					</div>
 					<div class="row">
 						<div class="col-md-3">
