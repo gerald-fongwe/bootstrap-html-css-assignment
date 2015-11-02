@@ -1,18 +1,20 @@
-body{font-size: 14px;
-	margin: auto;
+body{width: 100%; margin: auto;
 }
-
-.navbar-header{float:right; background-color:cadetblue;
-	color:blue;
-	margin: 10px;
+.container{width: 1170px; height: 90px;
+}
+.header{height: 50px; background: cadetblue; max-font-size: small;
 	border-radius: 5px;
 }
-.logo{font-size: large;
-	background-color:cadetblue;
-	color:blue;
+.logo{font-size: 25px; margin: 100px;
+	padding: 20px; color: blue;
+	height: 35px;
 }
-.container{font-size: small; align-content: flex-end}
+li{ list-style: none;
+	float: right;  margin-left: 15px}
 
-.footer{background-color:cadetblue;
-margin: 30px; border-radius: 10px;
-}
+.nav{float:right; height: 35px; color: blue; padding: 10px}
+
+.footer{ height: 50px; background: cadetblue;
+	margin:auto; border-radius:5px; }
+.cd-md-6{ align-content: inherit;}
+.cd-md-4{align-content: center;}

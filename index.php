@@ -41,12 +41,13 @@
 	</head>
 
 	<body>
-		<nav class="navbar navbar-default" role="navigation">
+		<div class="header">
+			<div class="container">
 			<a class="logo" href="#">GET SMART WEB</a>
 
-			<div class="navbar-header">
+			<div class="nav">
 
-				<ul class="nav navbar-nav">
+					<ul>
 					<li><a href="#">Home</a></li>
 					<li><a href="#">About</a></li>
 					<li><a href="#">Career</a></li>
@@ -54,7 +55,6 @@
 					<li><a href="#">Contact</a></li>
 				</ul>
 			</div>
-			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
 						<h2>The UN is planning a program for food distribution to a remote area of central Asia
@@ -66,28 +66,27 @@
 					<div class="row">
 						<div class="col-md-3">
 							<h2> Anthropology is the study of culture as a complex system that requires study of many
-								diverse component parts. Studying other cultures requires that one live with the subjects of
+								diverse component parts. Studying other cultures requires that one live with the
 								</h2>
 						</div>
 						<div class="row">
 							<div class="col-md-3">
-								<h2>their study. Holism describes a specific type of fieldwork that involves immersion in a
-									culture, and taking on aspects of the community being studied to better understand it. </h2>
+								<h2>subject of their study. Holism describes a specific type of fieldwork that involves immersion in a
+									culture, and taking on aspects of the community being studied to better</h2>
 							</div>
 							<div class="row">
 								<div class="col-md-3">
-									<h2>A fossil is any trace or impression of an organism that has been preserved in the earth's
-										crust from past geologic time. Dead animal materials are most likely to NOT become
-										fossilized.</h2>
+									<h2>understand it. A fossil is any trace or impression of an organism that has been preserved in the earth's
+										crust from past geologic time. Dead animal materials are most</h2>
 								</div>
 								<div class="row">
 									<div class="col-md-3">
-										<h2> Physical anthropologists study human biology including growth patterns,
+										<h2>likely to NOT to become fossilized. Physical anthropologists study human biology including growth patterns,
 											diet, disease, skeletal anatomy, and demographics.</h2>
 									</div>
 									<div class="row">
 										<div class="col-md-6">
-											<h2> The ABO blood groups in humans are controlled by three alleles of a single gene.
+											<h2>The ABO blood groups in humans are controlled by three alleles of a single gene.
 												O is recessive, while A and B are codominant (an individual with both the A and B
 												alleles will have the blood type</h2>
 										</div>
@@ -96,9 +95,9 @@
 												<h2> AB rather than A or B). If a woman who has type O blood gives birth to a
 													child with type O blood could herhusband,who has type AB blood, be the father of
 													this child?! The answer is NO!!!</h2>
+												<div class="footer">
 											</div>
 										</div>
-		</nav>
 
 	</body>
 
