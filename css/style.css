@@ -1,6 +1,6 @@
 body{width: 100%; margin: auto;
 }
-.container{width: 1170px; height: 90px;
+.container{padding: 20px; width: 1170px; height: 90px;
 }
 .header{height: 50px; background: cadetblue; max-font-size: small;
 	border-radius: 5px;
