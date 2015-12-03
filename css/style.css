@@ -1,20 +1,59 @@
-body{width: 100%; margin: auto;
+html
+body {
+	width: 100%;
+	margin: auto;
 }
-.container{padding: 20px; width: 1170px; height: 90px;
+
+.container {
+	padding: 10px;
+	width: 1170px;
+	height: 25px;
 }
-.header{height: 50px; background: cadetblue; max-font-size: small;
-	border-radius: 5px;
+
+.header {
+	height: 50px;
+	background: cadetblue;
+	max-font-size: small;
 }
-.logo{font-size: 25px; margin: 100px;
-	padding: 20px; color: blue;
+
+.logo {
+	font-size: 25px;
+	margin: 100px;
+	padding: 20px;
+	color: blue;
 	height: 35px;
 }
-li{ list-style: none;
-	float: right;  margin-left: 15px}
 
-.nav{float:right; height: 35px; color: blue; padding: 10px}
+li {
+	list-style: none;
+	float: right;
+	margin-left: 15px
+}
 
-.footer{ height: 50px; background: cadetblue;
-	margin:auto; border-radius:5px; }
-.cd-md-6{ align-content: inherit;}
-.cd-md-4{align-content: center;}
+.nav {
+	float: right;
+	height: 35px;
+	color: blue;
+	padding: 10px
+}
+
+.text-box {
+	border-radius: 6px;
+	padding: 20px 15px 15px;
+	margin-bottom: 20px;
+}
+
+.bg-pink {
+	background: pink;
+}
+
+.bg-blue {
+	background-color: lightblue;
+}
+
+.footer {
+	padding: 25px;
+	display: flex;
+	align-content: center;
+	background: cadetblue
+}
